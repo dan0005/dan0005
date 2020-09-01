@@ -1,19 +1,31 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **dan0005/dan0005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+### 🖥️ Experience
+  - C# .NET (WPF and Xamarin iOS)
+  - Java (Android and Spring Boot)
+  - TypeScript (Angular)
+  - C++
+  - PostgreSQL, MySQL, SQLite
+  - Web, Desktop, and Mobile
+### 🔭 Current Work
+I’m currently creating a web application with Angular (TypeScript), Spring Boot (Java), and PostgreSQL.
+### 🌱 What I'm Learning
+I’m learning how to use C# .NET Core to create a web api. I'm also interested in learning MongoDB, NodeJS, React, and ExpressJS.
+### ⚡ More About me
+I love good coffee! ☕  My morning (and sometimes afternoon) routine consists of brewing a great cup with my V60 or AeroPress. For a hot drink with a little less caffeine, I also enjoy tea (white, green, black, or cascera).
+### 📫 How to reach me
+Email: dantheman.uah@gmail.com
 
 ### My links:
 
